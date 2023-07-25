@@ -1,14 +1,14 @@
-### Hi there, I'm Dilshan
+### I want to leverage technology to make people's lives easier, solve real-world problems, and develop innovative solutions that make daily tasks more efficient. I am seeking opportunities to apply my expertise and creativity to developing software applications.
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Dilshan?style=social)](https://twitter.com/DilshanSachint7/followers)
 
-## I'm a Mobile Application Developer
+## Software Engineer
 
 - 🔭 I’m interested in Mobile Application Development
-- 🌱 I’m currently learning React Native
-- 👯 I’m looking to Develop mobile applications
-- 🥅 I have 1 year experience 
+- 🌱 I’m currently learning React 
+- 👯 I’m looking to Develop Software applications
+- 🥅 I have 2 year experience 
 
 
 ---
